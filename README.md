@@ -35,9 +35,11 @@ git commit -m "Update changes"
 git push
 
 Contributing
+
 If you have any suggestions or improvements, feel free to submit an issue or a pull request. Your feedback will help enhance this project.
 
 License
+
 This project is licensed under the MIT License (please adjust or add further license details as needed).
 
 Thank you for your interest and support! I hope you enjoy browsing my portfolio website.
