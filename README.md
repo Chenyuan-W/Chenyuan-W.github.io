@@ -42,4 +42,4 @@ This project is deployed using GitHub Pages. Follow these steps to set it up:
 
    This project is licensed under the MIT License (please adjust or add further license details as needed).
 
-Thank you for your interest and support! I hope you enjoy browsing my portfolio website.
+## Thank you for your interest and support! I hope you enjoy browsing my portfolio website.
