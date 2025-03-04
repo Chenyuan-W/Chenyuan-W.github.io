@@ -1,4 +1,4 @@
-# My Portfolio Website
+# Chenyuan WANG
 
 Welcome to my portfolio website project! This website is designed to showcase my artwork, short films, and photography. It is built using pure HTML, CSS (and optionally JavaScript), and is hosted for free via GitHub Pages.
 
